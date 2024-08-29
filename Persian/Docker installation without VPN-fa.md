@@ -1,4 +1,3 @@
-For installation Docker without VPN use Chinese repository 
 نصب داکر بدون قندشکن از مخازن چین
 
 > sudo apt-get update
